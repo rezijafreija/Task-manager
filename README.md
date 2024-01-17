@@ -9,4 +9,4 @@
 ##### home.html file represents the template for the home page of the task maniger.
 ##### login.html file represents the template for the login page. Includes functions to authenticate users and redirect them to home page after successful login.
 ##### sing_up.html file represents the template for the sign-up page. Handles user registration and stores the information in the database.
-##### submit50 cs50/problems/2024/x/project
+
