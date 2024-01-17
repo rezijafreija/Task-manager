@@ -1,3 +1,3 @@
-Hi, I'm @rezijafreija!
-This is my edX cs50 Final Project.
-It's a task manager, were you can log in, sing in, add and delete tasks.
+# Task manager
+#### Video: https://youtu.be/U-fwhmHOgrA 
+#### This project is greate for everyone that want to make there life more organised. Especially for student, with a lot of different homework and things to do this task manige can make life much easier
